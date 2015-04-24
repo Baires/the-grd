@@ -1,0 +1,24 @@
+{
+  "name": "The Grd",
+  "version": "0.0.1",
+  "authors": [
+    "Alexis Sgarbossa <alexis@sgarbossa.com.ar>"
+  ],
+  "description": "A simple SASS grid System",
+  "main": "grd.sass",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "sass",
+    "grid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
